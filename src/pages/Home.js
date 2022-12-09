@@ -82,7 +82,7 @@ console.log("ref",refid);
             <div className="header-card-container">
             <h1>MIFINTRUIST INVESTMENTS CO.</h1>
               <div className="header-text-home">
-                <h3 className="container-title card-home">The simplest way to invest in blockchain ledgers.</h3> <a href="/register" className="button-high-emphasis w-button" style={{textDecoration:'none',color:'white'}}>Get Started</a>
+                <h3 className="container-title card-home">The easiest way to invest in blockchain ledgers.</h3> <a href="/register" className="button-high-emphasis w-button" style={{textDecoration:'none',color:'white'}}>Get Started</a>
      </div>
      </div>
      </div>
