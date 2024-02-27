@@ -486,8 +486,8 @@ borderColor: '#060b26'
           </div>
           <div className="contacts contact-wrapper">
             <ul>
-              <li>We've driven online revenues of over <span className="highlight-text-grey">$2
-                  billion</span> for our clients. Ready to know
+              <li>We've driven online revenues of over <span className="highlight-text-grey">$30
+                  Million</span> for our clients. Ready to know
                 how we can help you?</li>
               
                
