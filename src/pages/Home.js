@@ -493,7 +493,10 @@ borderColor: '#060b26'
                
               <span className="hightlight-contact-info">
                 <li className="email-info"><i className="fa fa-envelope" aria-hidden="true" /> <span style={{fontSize:'12px'}}>Info@mifintruistinvestments.com</span></li>
+ <Dragonlord001-patch-2
                 <li><i className="fa fa-phone" aria-hidden="true" /> <span className="highlight-text"  style={{fontSize:'12px'}}>+1 (628) 267 5678</span></li>
+                <li><i className="fa fa-phone" aria-hidden="true" /> <span className="highlight-text"  style={{fontSize:'12px'}}>+1 628 267 5678</span></li>
+  <main
                 <li><i className="fab fa-linkedin-in"></i> <span className="social-li" onClick={()=>{window.location.href="https://www.linkedin.com/in/mifintruist-0553991a9/" }}  style={{fontSize:'12px'}}>Mifintruist LinkedIn</span>  </li>
                                 
                 
